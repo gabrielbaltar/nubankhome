@@ -1,0 +1,15 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: Varta;
+}
+
+h1,
+h2,
+h3,
+h4,
+a {
+  margin: 0px;
+  padding: 0px;
+}

@@ -1,0 +1,6 @@
+/* Importando o arquivo de css para o arquivo principal */
+@import "/css/header.css";
+@import "/css/global.css";
+
+/* Página Principal(Inicial) do site */
+@import "/css/home/home.css";
